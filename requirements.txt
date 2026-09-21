@@ -1,0 +1,9 @@
+scikit-learn>=1.3
+numpy>=1.24
+pymupdf>=1.23
+reportlab>=4.0
+
+# Optional, only needed if you set the matching API key to get LLM-generated
+# answers instead of the extractive fallback:
+# anthropic
+# openai

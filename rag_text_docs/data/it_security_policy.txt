@@ -1,0 +1,21 @@
+IT Security Policy - Northwind Software Inc.
+
+All employees must enable multi-factor authentication (MFA) on their
+company email, VPN, and source control accounts within their first week of
+employment. Passwords must be at least 14 characters long, unique to each
+system, and stored only in the company-approved password manager.
+
+Company laptops must have full-disk encryption enabled and automatically
+lock after 5 minutes of inactivity. Installing unapproved software or
+browser extensions on company devices requires prior approval from the IT
+Security team.
+
+Employees must report any suspected phishing email, lost device, or
+security incident to security@northwind.example within one hour of
+discovery. Devices that are lost or stolen must be reported immediately so
+IT can remotely wipe company data.
+
+Access to production systems and customer data is granted on a
+least-privilege basis and is reviewed quarterly. Employees who no longer
+require access to a system, due to a role change or offboarding, will have
+that access revoked within 24 hours.

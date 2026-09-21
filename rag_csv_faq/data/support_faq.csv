@@ -1,0 +1,19 @@
+category,question,answer
+Billing,How do I update my credit card on file?,Go to Account Settings > Billing > Payment Methods and click Edit next to your saved card to update it.
+Billing,Can I get a refund after canceling my subscription?,Refunds are issued for cancellations made within 14 days of the most recent charge; after that, cancellations take effect at the end of the current billing cycle with no refund.
+Billing,How do I switch from monthly to annual billing?,Open Account Settings > Billing > Plan and select Switch to Annual; the new rate applies at your next renewal date.
+Billing,Why was I charged twice this month?,Duplicate charges usually happen when a failed payment is retried; contact support@brightdesk.example with your invoice ID and we will issue a refund within 5 business days.
+Account,How do I reset my password?,Click Forgot Password on the login screen and follow the emailed link, which expires after 60 minutes.
+Account,How do I change the email address on my account?,Go to Account Settings > Profile > Email, enter the new address, and confirm it via the verification email we send.
+Account,Can I have more than one workspace under one account?,Yes, click your workspace name in the top left and select Create Workspace; you can belong to up to 10 workspaces on the Pro plan.
+Account,How do I delete my account permanently?,Go to Account Settings > Danger Zone > Delete Account; this permanently removes all data after a 30-day grace period.
+Technical,The app is stuck on a loading screen, what should I do?,Clear your browser cache, disable ad-blocking extensions, and reload; if the issue persists, check status.brightdesk.example for an ongoing incident.
+Technical,Why am I not receiving email notifications?,Check Settings > Notifications to confirm email alerts are enabled, and verify our domain is not blocked by your email provider's spam filter.
+Technical,Does the product have an API?,Yes, the REST API is available on the Pro and Enterprise plans; API keys can be generated under Settings > Developer > API Keys.
+Technical,What browsers are supported?,The latest two versions of Chrome, Firefox, Safari, and Edge are officially supported; Internet Explorer is not supported.
+Team Management,How do I invite a teammate?,Go to Team > Members > Invite, enter their email, and choose a role; they will receive an invite link valid for 7 days.
+Team Management,How do I change a teammate's role?,Go to Team > Members, click the three-dot menu next to their name, and select Change Role; only Admins can change roles.
+Team Management,How do I remove a former employee from the workspace?,Go to Team > Members, click Remove next to their name; this immediately revokes their access and reassigns their open tasks to their manager.
+Security,Does the product support single sign-on (SSO)?,SSO via SAML 2.0 is available on the Enterprise plan; contact your account manager to configure your identity provider.
+Security,Is my data encrypted?,All data is encrypted in transit using TLS 1.2 or higher and at rest using AES-256.
+Security,How do I enable two-factor authentication?,Go to Account Settings > Security > Two-Factor Authentication and follow the prompts to link an authenticator app.

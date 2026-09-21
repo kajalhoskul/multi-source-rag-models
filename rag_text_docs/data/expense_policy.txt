@@ -1,0 +1,21 @@
+Expense Reimbursement Policy - Northwind Software Inc.
+
+Employees may submit expense reports for business-related travel, client
+meals, and approved software subscriptions. All expense reports must be
+submitted within 30 days of the expense being incurred, along with an
+itemized receipt for any single expense over $25.
+
+Airfare must be booked in economy class for flights under six hours;
+business class is permitted for flights longer than six hours with prior
+manager approval. Ground transportation, including taxis and ride-share
+services, is reimbursable when used for business travel or when working
+after 8:00 PM on a company-required task.
+
+Client meal expenses are reimbursable up to $75 per person, and alcohol is
+reimbursable only when it accompanies a client meal and does not exceed 20%
+of the total bill. Personal expenses, such as movies, mini-bar charges, and
+gym fees, are not reimbursable.
+
+Expense reports are submitted through the finance portal and are typically
+reimbursed within 10 business days of manager approval. Reports missing
+receipts or exceeding policy limits will be returned for correction.

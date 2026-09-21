@@ -1,0 +1,21 @@
+Leave and Time-Off Policy - Northwind Software Inc.
+
+Full-time employees accrue 18 days of paid time off (PTO) per year, credited
+monthly at a rate of 1.5 days per month. Unused PTO of up to 10 days may be
+carried over into the following calendar year; any remaining balance beyond
+that is forfeited on December 31st.
+
+Employees are entitled to 10 paid sick days per year, which do not carry
+over and are not paid out upon termination. A doctor's note is required for
+sick leave lasting more than three consecutive days.
+
+New parents, including adoptive and foster parents, are eligible for 16
+weeks of paid parental leave. Parental leave must be taken within 12 months
+of the birth, adoption, or foster placement, and can be split into two
+blocks of at least two weeks each with manager approval.
+
+Employees who wish to take a leave of absence for personal reasons beyond
+their PTO balance may apply for unpaid leave of up to 30 days, subject to
+approval from HR and their department head. All leave requests should be
+submitted through the HR portal at least two weeks in advance, except in
+cases of emergency.

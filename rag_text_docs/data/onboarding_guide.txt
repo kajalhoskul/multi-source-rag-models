@@ -1,0 +1,20 @@
+New Hire Onboarding Guide - Northwind Software Inc.
+
+Before your start date, HR will send you a welcome email containing your
+employee ID, start date, and instructions for setting up your company
+laptop. Your manager will assign you an onboarding buddy from your team who
+will help you navigate your first two weeks.
+
+On your first day, you should report to the front desk at 9:00 AM to
+receive your access badge and complete I-9 verification. IT will meet you
+within the first hour to set up your accounts, including email, Slack, and
+the internal wiki.
+
+During your first week, you are expected to complete mandatory compliance
+training covering IT security, workplace conduct, and data privacy. This
+training must be finished within 5 business days of your start date and is
+tracked in the HR learning portal.
+
+Your 30-60-90 day plan will be created with your manager during your first
+week. At the 90-day mark, you will have a formal check-in with your manager
+and HR to review your progress and set goals for the next quarter.
