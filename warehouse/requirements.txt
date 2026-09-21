@@ -1,0 +1,5 @@
+dbt-core>=1.8
+dbt-duckdb>=1.8
+duckdb>=1.0
+faker>=20.0
+plotly>=5.20

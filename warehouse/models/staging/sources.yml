@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    description: >
+      Raw tables loaded directly from the OLTP CSV extracts and the
+      clickstream event log by data_generation/load_raw.py, before any
+      dbt transformation.
+    schema: raw
+    tables:
+      - name: customers
+      - name: products
+      - name: stores
+      - name: orders
+      - name: order_items
+      - name: web_events

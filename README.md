@@ -1,4 +1,15 @@
-# Multi-Source RAG Models
+# Multi-Source RAG Models & Retail Analytics Data Warehouse
+
+This repo has two independent projects:
+
+| Project | What it is | Where |
+|---|---|---|
+| **Retail Analytics Data Warehouse** | A dbt + DuckDB data warehouse: star schema, SCD Type 2 history, 44 data quality tests, RFM/cohort analytics, and a dashboard, over a synthetic e-commerce dataset. | [`warehouse/`](warehouse/README.md) |
+| **Multi-Source RAG Models** | Three Retrieval-Augmented Generation pipelines over text, CSV, and PDF data. | this file, below |
+
+---
+
+## Multi-Source RAG Models
 
 Three independent Retrieval-Augmented Generation (RAG) pipelines, one for
 each of three different data formats. They share a common retrieval and

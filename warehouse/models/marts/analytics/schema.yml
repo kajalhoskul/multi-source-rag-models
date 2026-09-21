@@ -1,0 +1,31 @@
+version: 2
+
+models:
+  - name: mart_monthly_revenue
+    columns:
+      - name: net_revenue
+        tests:
+          - not_null
+
+  - name: mart_rfm_segments
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+      - name: rfm_segment
+        tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - Champions
+                  - Loyal Customers
+                  - New / Promising
+                  - At Risk
+                  - Cant Lose Them
+                  - Hibernating
+                  - Needs Attention
+
+  - name: mart_cohort_retention
+    columns:
+      - name: retention_pct
+        tests:
+          - not_null
